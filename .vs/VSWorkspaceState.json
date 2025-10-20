@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.next\\cache",
+    "\\.next\\server",
+    "\\public",
+    "\\src",
+    "\\src\\app"
+  ],
+  "SelectedNode": "\\src\\app\\globals.css",
+  "PreviewInSolutionExplorer": false
+}
