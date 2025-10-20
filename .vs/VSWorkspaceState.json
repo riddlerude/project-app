@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.next\\cache",
-    "\\.next\\server",
     "\\public",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\about",
+    "\\src\\components"
   ],
-  "SelectedNode": "\\src\\app\\globals.css",
+  "SelectedNode": "\\src\\components\\navbar.tsx",
   "PreviewInSolutionExplorer": false
 }
